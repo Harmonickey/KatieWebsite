@@ -2,5 +2,6 @@
 
 window.onload = function ()
 {
-	alert("Hello Katie")
+	var divider = document.getElementById("katiedivider")
+	divider.innerHtml = "this is my divider"
 }
