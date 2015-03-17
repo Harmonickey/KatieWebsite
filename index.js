@@ -5,7 +5,7 @@ window.onload = function ()
 	var divider = document.getElementById("katiedivider");
 	divider.innerHTML = "this is my divider";
 
-	var yellows = document.getElementsByClass("yellow");
+	var yellows = document.getElementsByClassName("yellow");
 
 	yellows[0].style.color = "yellow";
 
