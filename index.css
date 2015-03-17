@@ -32,4 +32,5 @@ div {
 #right,
 #middle {
 	width: 33%;
+	float: left;
 }
