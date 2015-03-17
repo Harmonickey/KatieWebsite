@@ -14,7 +14,10 @@
 
 p,
 h1,
-img,
-video {
+div {
+	text-align: center;
+}
+
+#photo-video-wrappper {
 	text-align: center;
 }
