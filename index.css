@@ -12,3 +12,9 @@
 	color: green;
 }
 
+p,
+h1,
+img,
+video {
+	text-align: center;
+}
